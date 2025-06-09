@@ -41,14 +41,14 @@ for (let i = 1; i <= 5; i++) {
   console.log(i);
 }
 //Step 4.2: While loop
-onsole.log("\n--- While loop ---");
+console.log("\n--- While loop ---");
 let i = 1;
 while (i <= 5) { 
   console.log(i);
   i++;
 }
 //Step 4.3: Do...While Loop
-onsole.log("\n--- Do...While loop ---");
+console.log("\n--- Do...While loop ---");
 let j = 1; 
 do {
   console.log(j);
