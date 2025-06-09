@@ -36,19 +36,22 @@ switch (day) {
         console.log("Invalid day number. Please enter a number between 1 and 7.");
 }
 //Step 4.1: For loop
+console.log("\n--- For loop ---");
 for (let i = 1; i <= 5; i++) {
-  console.log("For loop: " + i);
+  console.log(i);
 }
 //Step 4.2: While loop
+onsole.log("\n--- While loop ---");
 let i = 1;
 while (i <= 5) { 
-  console.log("While loop: " + i);
+  console.log(i);
   i++;
 }
 //Step 4.3: Do...While Loop
+onsole.log("\n--- Do...While loop ---");
 let j = 1; 
 do {
-  console.log("Do...While loop: " + j);
+  console.log(j);
   j++;
 } while (j <= 5);
 //Step 5.1: Control Flow with break
