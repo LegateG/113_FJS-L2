@@ -37,18 +37,18 @@ switch (day) {
 }
 //Step 4.1: For loop
 for (let i = 1; i <= 5; i++) {
-  console.log(i);
+  console.log("For loop: " + i);
 }
 //Step 4.2: While loop
 let i = 1;
 while (i <= 5) { 
-  console.log(i);
+  console.log("While loop: " + i);
   i++;
 }
 //Step 4.3: Do...While Loop
 let j = 1; 
 do {
-  console.log(j);
+  console.log("Do...While loop: " + j);
   j++;
 } while (j <= 5);
 //Step 5.1: Control Flow with break
